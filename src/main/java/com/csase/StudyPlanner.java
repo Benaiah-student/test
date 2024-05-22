@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 
 /*
- * Represents a study planner with a list of assignments
+ * Represents a study planner with a list of assignments test
  */
 public class StudyPlanner {
 
